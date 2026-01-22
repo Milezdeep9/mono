@@ -1,6 +1,6 @@
 {
   "name": "@omrilotan/mono",
-  "version": "0.0.0",
+  "version": "6.0.0",
   "description": "Mono repo holding multiple packages",
   "author": "omrilotan",
   "homepage": "https://omrilotan.com/mono",
